@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cim:home|Door43 (cim)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cim|d43-cim repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cim/archive/master.zip|d43-cim.zip]]
+
+**Recent Changes**
+{{changes>ns = cim}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cim|Ethnologue data]]
+
